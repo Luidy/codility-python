@@ -9,3 +9,7 @@ It is codility solutions in Python. <br />
 
 ## Lesson 2 Arrays
 * [CyclicRotation](https://github.com/Luidy/codility-python/blob/master/Lesson2/01_CyclicRotation.py)
+<br />
+
+## Lesson 3 Time Complexity
+* [FrogJmp](https://github.com/Luidy/codility-python/blob/master/Lesson3/01_FrogJmp.py)
