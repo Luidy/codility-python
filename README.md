@@ -13,3 +13,7 @@ It is codility solutions in Python. <br />
 
 ## Lesson 3 Time Complexity
 * [FrogJmp](https://github.com/Luidy/codility-python/blob/master/Lesson3/01_FrogJmp.py)
+<br />
+
+## Lesson 4 Counting Elements
+* [FrogRiverOne](https://github.com/Luidy/codility-python/blob/master/Lesson4/01_FrogRiverOne.py)
