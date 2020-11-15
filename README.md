@@ -17,3 +17,11 @@ It is codility solutions in Python. <br />
 
 ## Lesson 4 Counting Elements
 * [FrogRiverOne](https://github.com/Luidy/codility-python/blob/master/Lesson4/01_FrogRiverOne.py)
+<br />
+
+## Lesson 5 Prefix Sums
+* [CountDiv](https://github.com/Luidy/codility-python/blob/master/Lesson5/01_CountDiv.py)
+<br />
+
+## Lesson 6 Sorting
+* [Distinct](https://github.com/Luidy/codility-python/blob/master/Lesson6/01_Distinct.py)
